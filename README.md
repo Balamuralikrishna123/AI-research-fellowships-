@@ -59,3 +59,17 @@ ZipRecruiter ML CPT Jobs: https://ziprecruiter.com/Jobs/Machine-Learning-Interns
 
 If you find something I missed feel free to open a PR or Issue!
 Star the repo so you get notified when I add new opportunities.
+Applications:
+☐ Anthropic Fellows
+☐ OpenAI Safety Fellowship
+☐ MATS
+☐ SPAR
+☐ Google Research Student Researcher
+☐ DeepMind Student Researcher
+☐ Microsoft Research
+☐ NVIDIA Research
+☐ Meta AI
+☐ IBM Research
+☐ GSoC
+☐ Outreachy
+☐ MLH Fellowship
