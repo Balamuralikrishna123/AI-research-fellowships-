@@ -56,20 +56,172 @@ OPTnation: https://optnation.com
 ZipRecruiter ML CPT Jobs: https://ziprecruiter.com/Jobs/Machine-Learning-Internship-Opt-Cpt
 
 
+AI Research / AI Safety Fellowships
+1. Anthropic Fellows Program ⭐⭐⭐⭐⭐
 
-If you find something I missed feel free to open a PR or Issue!
-Star the repo so you get notified when I add new opportunities.
-Applications:
-☐ Anthropic Fellows
-☐ OpenAI Safety Fellowship
-☐ MATS
-☐ SPAR
-☐ Google Research Student Researcher
-☐ DeepMind Student Researcher
-☐ Microsoft Research
-☐ NVIDIA Research
-☐ Meta AI
-☐ IBM Research
-☐ GSoC
-☐ Outreachy
-☐ MLH Fellowship
+Focus: AI safety, interpretability, robustness, AI security, empirical research
+Good for you: Federated Learning + Privacy + Safe AI
+
+Apply:
+https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/
+
+Status:
+
+Cohorts run multiple times
+Rolling style applications mentioned for future cohorts
+2. OpenAI Safety Fellowship ⭐⭐⭐⭐⭐
+
+Focus:
+
+AI safety
+robustness
+privacy-preserving AI
+evaluations
+agent oversight
+
+Apply:
+https://openai.com/index/introducing-openai-safety-fellowship/
+
+Status:
+
+2026 program announced
+Applications were open for the 2026 cohort
+3. MATS (Machine Learning Alignment & Theory Scholars) ⭐⭐⭐⭐⭐
+
+Focus:
+
+AI alignment
+interpretability
+AI security
+
+Apply:
+https://www.matsprogram.org/apply
+
+Status:
+
+Autumn 2026 applications open
+4. SPAR (AI Safety Research Program)
+
+Focus:
+
+AI safety research
+mentorship
+research projects
+
+Apply:
+https://sparai.org/
+
+Good for:
+
+building first AI safety publication
+Big Tech Research Programs
+5. Google Research Student Researcher ⭐⭐⭐⭐
+
+Focus:
+
+Machine Learning
+AI research
+systems
+privacy
+
+Apply:
+https://research.google/programs-and-events/student-researcher-program/
+
+Good keywords:
+
+Machine Learning Student Researcher
+AI Research Intern
+Privacy ML
+Federated Learning
+
+6. Google DeepMind Student Researcher ⭐⭐⭐⭐⭐
+
+Apply:
+https://deepmind.google/careers/
+
+Search:
+
+Student Researcher
+Research Intern
+Machine Learning
+AI Safety
+7. Microsoft Research Internship ⭐⭐⭐⭐
+
+Apply:
+https://www.microsoft.com/en-us/research/careers/
+
+Search:
+
+Research Intern AI
+Responsible AI
+Machine Learning
+8. NVIDIA Research Internship ⭐⭐⭐⭐
+
+Apply:
+https://research.nvidia.com/careers
+
+Good match:
+
+CUDA
+GPU AI
+Federated Learning
+Deep Learning systems
+9. Meta AI Research Internship ⭐⭐⭐⭐
+
+Apply:
+https://careers.meta.com/
+
+Search:
+
+AI Research Scientist Intern
+Machine Learning Intern
+Healthcare AI / Responsible AI
+10. IBM Research Internship
+
+Apply:
+https://research.ibm.com/careers
+
+Search:
+
+AI Research Intern
+Healthcare AI
+Privacy ML
+11. MIT AI / Science Fellowships
+
+Apply:
+https://chemistry.mit.edu/support-chemistry/xtalpi-ai-for-science-fellowships/
+
+Good connection:
+
+AI + healthcare
+scientific ML
+Open Source / Research Programs
+12. Google Summer of Code (GSoC) ⭐⭐⭐⭐⭐
+
+Apply:
+https://summerofcode.withgoogle.com/
+
+Target organizations:
+
+AI
+ML
+privacy
+healthcare
+
+Your NVIDIA FLARE / FedSDMU story fits.
+
+13. Outreachy
+
+Apply:
+https://www.outreachy.org/
+
+Open-source internships.
+
+14. MLH Fellowship
+
+Apply:
+https://fellowship.mlh.io/
+
+Good for:
+
+open-source ML projects
